@@ -29,7 +29,7 @@ const WhatWeDo: React.FC = () => {
 
             <div className="overview-content">
               <div className="content right-content">
-                <h2>What We Do Softechinfra Template</h2>
+                <h2>What We Do Softechinfra</h2>
                 <p>
                   We believe brand interaction is key to communication. Real
                   innovations and positive customer experience are the heart of

@@ -21,9 +21,9 @@ const overpass = Overpass({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title:
-    "Softechinfra - Multipurpose Technology Services & IT Startup React Nextjs Template",
+    "Softechinfra - MultiDomain Technology Services & IT Startup",
   description:
-    "Multipurpose Technology Services & IT Startup React Next Template",
+    "Softechinfra - MultiDomain Technology Services & IT Startup - Website build by Vivek Singh",
 };
 
 export default function RootLayout({
